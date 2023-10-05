@@ -1,4 +1,4 @@
-# tugas2pw_lab6![Uploading HOME.png…]()
+# tugas2pw_lab6![HOME](https://github.com/PD6-dhea-092/tugas2pw_lab6/assets/114650981/91a8d69e-fa3c-486a-a8ec-080740f65642)
 ![TENTANG](https://github.com/PD6-dhea-092/tugas2pw_lab6/assets/114650981/a822865f-639c-45d7-9d55-d7f567879b66)
 ![MENU](https://github.com/PD6-dhea-092/tugas2pw_lab6/assets/114650981/845a8aea-225b-4811-931b-a4ecbfa93c4b)
 ![KONTAK](https://github.com/PD6-dhea-092/tugas2pw_lab6/assets/114650981/14b0ebb0-d88f-4ff9-be74-db27851e617d)
