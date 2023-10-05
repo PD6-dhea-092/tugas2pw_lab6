@@ -1,0 +1,32 @@
+body{
+    font-family: youngserif,Georgia, 'Times New Roman', Times, serif ;
+}
+.navbar {
+    background-color: #493323;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #FFDF91;
+}
+
+#Menu{
+    background-color: #FFDF91;
+}
+#contact .row h2{
+    text-align:center ;
+    padding-bottom: 10px;
+}
+footer{
+    background:#493323;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+footer a {
+    color: white;
+    font-weight: bold;
+}
+section{
+    padding-top: 5rem;
+}
